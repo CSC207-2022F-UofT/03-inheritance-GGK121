@@ -36,5 +36,4 @@ public class HandBag extends Bag{
          */
         super.increaseCapacity(1);
     }
-
 }
