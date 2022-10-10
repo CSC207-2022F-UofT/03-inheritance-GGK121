@@ -43,6 +43,7 @@ public class CrossbodyBag extends Bag {
     }
 
     public int getNumStraps() {
+
         return numStraps;
     }
 

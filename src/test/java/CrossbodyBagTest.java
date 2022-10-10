@@ -23,7 +23,7 @@ public class CrossbodyBagTest {
     @Test(timeout = 50)
     public void TestGetNumberOfStraps() {
         b.enhance();
-        assertEquals(2, b.getNumberOfStraps());
+        assertEquals(2, b.getNumStraps());
     }
 
     @Test(timeout = 50)
