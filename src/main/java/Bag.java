@@ -29,6 +29,7 @@ public abstract class Bag {
      * its contents.)
      */
 
+
     public Bag(){
     }
     public Bag(String colour, int capacity) {
